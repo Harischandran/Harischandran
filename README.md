@@ -1,4 +1,4 @@
-### Hi there 👋
+![Profile Views Counter](https://komarev.com/ghpvc/?username=Harischandran&&style=flat-square)
 
 <!--
 **Harischandran/Harischandran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
